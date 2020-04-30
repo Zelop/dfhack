@@ -1,5 +1,3 @@
-.. _license:
-
 ########
 Licenses
 ########
@@ -31,6 +29,8 @@ protobuf_       BSD 3-clause  \(c\) 2008, Google Inc.
 tinythread_     Zlib          \(c\) 2010, Marcus Geelnard
 tinyxml_        Zlib          \(c\) 2000-2006, Lee Thomason
 UTF-8-decoder_  MIT           \(c\) 2008-2010, Bjoern Hoehrmann
+df-webfort	ISC           \(c\) 2014, Vitaly Pronkin & Kyle Mclamb
+cpp-httplib	MIT	      \(c\) 2017, yhirose
 =============== ============= =================================================
 
 .. _DFHack: https://github.com/DFHack/dfhack
@@ -97,6 +97,22 @@ See https://en.wikipedia.org/wiki/MIT_License
     CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
     TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
     SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ISC Licenses
+============
+See https://en.wikipedia.org/wiki/ISC_license
+::
+	Permission to use, copy, modify, and/or distribute this software for any
+	purpose with or without fee is hereby granted, provided that the above
+	copyright notice and this permission notice appear in all copies.
+
+	THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+	WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+	MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+	ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+	WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+	ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+	OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 BSD Licenses
 ============

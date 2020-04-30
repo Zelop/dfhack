@@ -16,3 +16,6 @@
 [submodule "depends/jsoncpp"]
 	path = depends/jsoncpp-sub
 	url = ../../DFHack/jsoncpp.git
+[submodule "plugins/dfplex"]
+	path = plugins/dfplex
+	url = https://github.com/white-rabbit-dfplex/dfplex
